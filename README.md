@@ -1,18 +1,17 @@
-# sisy.homes - Real Estate & Property Professionals Niche
+# sisy.homes
 
-**Domain:** sisy.homes
-**Role:** Niche Vertical - Real estate & property industry
-**Priority:** Long-term
-**Notion:** See SISY Domain Strategy page
+SISY Homes - Women Leading in Property, Architecture & Design. Expert visibility directory for women in real estate, architecture, and interior design.
 
-## Purpose
-Niche vertical for women speakers in real estate, property, architecture, and interior design industries.
+Part of the [SISY ecosystem](https://sisy.world).
 
-## Key Features / Sections
-- Real estate industry speaker directory
-- Property & housing event listings
-- Industry-specific content
-- Funnel to main SISY platform
+## Development
 
-## Monetization
-Sponsored content + industry partnerships. Long-term niche expansion.
+Requires Hugo Extended v0.142.0+.
+
+```bash
+hugo server
+```
+
+## Deploy
+
+Automatically deployed to GitHub Pages via GitHub Actions on push to `main`.
