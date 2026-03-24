@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/Users/lindamohamed/code/sisy.homes/hugo.toml:*)",
+      "Bash(__NEW_LINE_7afb07d1f43dcf42__ cat:*)",
+      "Bash(/Users/lindamohamed/code/sisy.homes/content/_index.md:*)",
+      "Bash(/Users/lindamohamed/code/sisy.homes/archetypes/default.md:*)",
+      "Bash(/Users/lindamohamed/code/sisy.homes/.gitignore:*)"
+    ]
+  }
+}
